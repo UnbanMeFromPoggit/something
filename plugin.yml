@@ -1,0 +1,7 @@
+---
+name: something
+author: someone
+main: something\Main
+version: 1.0
+api: 3.0.0
+... 
