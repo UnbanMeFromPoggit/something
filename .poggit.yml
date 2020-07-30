@@ -1,7 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/UnbanMeFromPoggit/something
 build-by-default: true
 branches:
-- <@390090409159950338>
+- '<@390090409159950338>'
 projects:
   something:
     path: ""
