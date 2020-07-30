@@ -1,7 +1,7 @@
 ---
 name: something
-author: someone
+author: someone2
 main: something\Main
-version: 1.0
+version: 1.0.2
 api: 3.0.0
 ... 
